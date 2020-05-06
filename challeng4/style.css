@@ -1,0 +1,82 @@
+.body{
+    margin: 0;
+    padding: 0;
+  }
+  .btn{
+    margin-right: 5px;
+  }
+  
+  .rech, .menu{
+     margin-top: 30px;
+     display: inline-block;
+  }
+  .entete{
+    background-color: black;
+    width: 100%;
+    height: 200px;
+    color: white;
+  }
+  .form{
+    width:100%;
+    color: #2d3436;
+    width: 800px;
+  
+  }
+  .compagnie,
+  .villedep,
+  .villed{
+    margin-bottom: 10px;
+  }
+  .recherche{
+    width: 150px;
+    background-color: #2d3436;
+    color: white;
+  }
+  input{
+    text-align: center;
+    width:100%;
+    margin-bottom: 20px;
+  }
+  select{
+    text-align: center;
+    width:100%;
+    margin-bottom: 20px;
+  }
+  .compagnie,
+  .villedep,
+  .ville option{ 
+    text-align: center;
+  }
+   label{
+    color: white;
+    margin-right: 95px;
+  
+  }
+  .fond{
+     width:100%;
+    background-color: #2d3436;
+    margin-top: 1px;
+    color: white;
+    text-align: center;
+    height:700px;
+  }
+  .fond2{
+    width:100%;
+   background-color: #2d3436;
+   margin-top: 1px;
+   color: white;
+   text-align: center;
+   height:350px;
+  }
+  .fond2 input{
+    margin-top: 30px;
+  }
+  .footer{
+    color: gray;
+    text-align: center;
+    margin-top:10px;
+    background-color: black;
+    width: 100%;
+    height:100px;
+  }
+  
